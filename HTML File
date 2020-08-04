@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Tribute Page </title>
+    </head>
+    
+    <body>
+        <h1 class="text-center"> Michael Jackson </h1>
+        <p>Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter, and dancer. Dubbed the "King of Pop", he is regarded as one of the most significant cultural figures of the 20th century and one of the greatest entertainers in the history of music. Through stage and video performances, he popularized complicated dance techniques such as the moonwalk, to which he gave the name. His sound and style have influenced artists of various genres, and his contributions to music, dance, and fashion, along with his publicized personal life, made him a global figure in popular culture for over four decades. Jackson is the most awarded artist in the history of popular music. (First paragraph on Wikipedia) <a href="https://en.wikipedia.org/wiki/Michael_Jackson"> More on Wikipedia </a></p>
+        <img src="https://wallup.net/wp-content/uploads/2019/09/08/602474-michael-jackson-dance-pop-r-b-blues-singer-disco-swing-1mjackson-soul.jpg">
+        <img src="https://www.biography.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTU2NDU2NDk5MDM4NjYwMTk0/michael-jackson-performs-in-concert-circa-1995-photo-by-kevin-mazur_wireimage.jpg">
+        <img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/03/30/12/shutterstock-editorial-138187a.jpg?w968h681">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-4nqVujBXoVOfq83Y8xUxzQk6tTPZ8kTJAw&usqp=CAU">
+        <h2> 5 Facts about Michael Jackson: </h2>
+        <ul>
+            <li> He is known as the "King of Pop" and his full name is Michael Joseph Jackson. </li>
+            <li> He is an animal lover. </li>
+            <li> He has many siblings: 5 brothers and 3 sisters. </li>
+            <li> He joined a band called "Jackson 5" and later broke away to have his solo career. </li>
+            <li> He is also known for changing appearances - some of his facial features change over time. </li>
+        </ul>
+        <a href="https://www.ducksters.com/biography/entertainers/michael_jackson.php"> More Info on Ducksters </a>
+        <h2> Some of his famous quotes </h2>
+        <h3>- “Just doing as well as you did last time is not good enough.”</h3>
+        <h3>- “Let us dream of tomorrow where we can truly love from the soul, and know love as the ultimate truth at the heart of all creation.”</h3>
+        <h3>- “Lies run sprints, but the truth runs marathons. The truth will win this marathon in court.”</h3>
+    </body>
+</html>
